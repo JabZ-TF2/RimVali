@@ -3,7 +3,7 @@
   <!-- <TailStiffeningAugment.label>Tail Stiffening augment</TailStiffeningAugment.label> -->
   <TailStiffeningAugment.label>Schweifverstärker-Augment</TailStiffeningAugment.label>
   <!-- <TailStiffeningAugment.description>This augment modifies the tail with nanites, increasing its ability to take damage, but slightly slowing the being it is installed on.</TailStiffeningAugment.description> -->
-  <TailStiffeningAugment.description>Dieses Augment verändert den Schweif mithilfe Naniten, wodurch es nicht so leicht Schaden nimmt. Verlangsamt jedoch den Benutzer.</TailStiffeningAugment.description>
+  <TailStiffeningAugment.description>Dieses Augment verändert den Schweif mithilfe von Naniten, wodurch es nicht so leicht beschädigt wird. Verlangsamt jedoch den Benutzer.</TailStiffeningAugment.description>
   <!-- <TailStiffeningAugment.comps.0.tools.0.label>Tail</TailStiffeningAugment.comps.0.tools.0.label> -->
   <TailStiffeningAugment.comps.0.tools.0.label>Schweif</TailStiffeningAugment.comps.0.tools.0.label>
   <!-- <TailStiffeningAugment.labelNoun>a tail stiffening augement</TailStiffeningAugment.labelNoun> -->
