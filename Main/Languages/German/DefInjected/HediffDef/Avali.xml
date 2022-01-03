@@ -33,9 +33,9 @@
   <!-- <AmmoniaPoisoning.description>Ammonia in the blood stream. Ammonia is toxic to most, if not all earth-like organisms, and can cause several health issues.</AmmoniaPoisoning.description> -->
   <AmmoniaPoisoning.description>Ammoniak im Blutkreislauf. Ammoniak ist giftig für die meisten, wenn nicht für alle, erdähnlichen Organismen und kann mehrere ernsthafte, gesundheitliche Schäden verursachen.</AmmoniaPoisoning.description>
   <!-- <AmmoniaPoisoning.stages.0.label>Initial poisoning</AmmoniaPoisoning.stages.0.label> -->
-  <AmmoniaPoisoning.stages.0.label>Beginnend</AmmoniaPoisoning.stages.0.label>
+  <AmmoniaPoisoning.stages.0.label>Anfänglich</AmmoniaPoisoning.stages.0.label>
   <!-- <AmmoniaPoisoning.stages.1.label>Initial</AmmoniaPoisoning.stages.1.label> -->
-  <AmmoniaPoisoning.stages.1.label>Beginnend</AmmoniaPoisoning.stages.1.label>
+  <AmmoniaPoisoning.stages.1.label>Anfänglich</AmmoniaPoisoning.stages.1.label>
   <!-- <AmmoniaPoisoning.stages.2.label>Minor</AmmoniaPoisoning.stages.2.label> -->
   <AmmoniaPoisoning.stages.2.label>Leicht</AmmoniaPoisoning.stages.2.label>
   <!-- <AmmoniaPoisoning.stages.3.label>Moderate</AmmoniaPoisoning.stages.3.label> -->
